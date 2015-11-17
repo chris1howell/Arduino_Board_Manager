@@ -1,0 +1,44 @@
+{
+  "packages": [
+    {
+      "name": "OpenEVSE",
+      "maintainer": "OpenEVSE",
+      "websiteURL": "https://github.com/OpenEVSE/",
+      "email": "support@openevse.com",
+      "help": {
+        "online": "http://support.openevse.com"
+      },
+      "platforms": [
+        {
+          "name": "OpenEVSE",
+          "architecture": "avr",
+          "version": "1.0.0",
+          "category": "Contributed",
+          "help": {
+            "online": "http://support.openevse.com"
+          },
+          "url": "http://files.openevse.com/OpenEVSE_1.0.0.zip",
+          "archiveFileName": "OpenEVSE_1.0.0.zip",
+          "checksum": "SHA-256:CC4CBBBCE13A96E1B91D6611210D9EEF119CE5A34F29B0173B7EC5D3207ED7BD",
+          "size": "115740",
+          "boards": [
+            {"name": "OpenEVSE"},
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "avr-gcc",
+              "version": "4.8.1-arduino5"
+            },
+            {
+              "packager": "arduino",
+              "name": "avrdude",
+              "version": "6.0.1-arduino5"
+            }
+          ]
+        },
+      ],
+      "tools":[]
+    }
+  ]
+}
