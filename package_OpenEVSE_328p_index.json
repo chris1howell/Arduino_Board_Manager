@@ -17,12 +17,12 @@
           "help": {
             "online": "http://support.openevse.com/"
           },
-          "url": "https://github.com/chris1howell/Arduino_Board_Manager/blob/master/OpenEVSE_1.0.0.zip",
+          "url": "https://github.com/chris1howell/Arduino_Board_Manager/releases/download/v0.1/OpenEVSE_1.0.0.zip",
           "archiveFileName": "OpenEVSE_1.0.0.zip",
-          "checksum": "SHA-256:F585C8E22C09FD6B081B39ABDC6A2679CAA5CCF16DE66721380534437804360D",
+          "checksum": "SHA-256:61751030278CA5995070BEDF15A7860DE6247F44FA9058D0B14D398D2FEB1F9D",
           "size": "113996",
           "boards": [
-            {"name": "OpenEVSE"},
+            {"name": "OpenEVSE"}
           ],
           "toolsDependencies": [
             {
