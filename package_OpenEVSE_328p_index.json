@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/chris1howell/Arduino_Board_Manager/releases/download/v0.1/OpenEVSE_1.0.0.zip",
           "archiveFileName": "OpenEVSE_1.0.0.zip",
-          "checksum": "SHA-256:B1390789B50049B6881635B41296BD8622C688D4EF48DEEE83FCC3C89D3A032E",
-          "size": "33172",
+          "checksum": "SHA-256:D33976A533EC4F2180ACC79E2C7DC08CA8103B513F26EA756DABB33F7B6D722F",
+          "size": "3285",
           "boards": [
             {"name": "OpenEVSE"}
           ],
